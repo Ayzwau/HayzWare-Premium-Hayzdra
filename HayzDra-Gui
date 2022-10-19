@@ -1,8 +1,10 @@
--- https://discord.gg/Uj4ZYJungZ
--- join nova hub
--- some of the features here are from nova hub
--- len you are a really good scripter
--- ok now have fun gamers
+-- Hayzdra on Top!
+-- Suck my cock and get the premium version of HayzWare's OTHER GUI's!
+-- Copy this and be retarded you fucking nerds!
+
+game.StarterGui:SetCore("SendNotification", {Title = "HayzWare", Text = "Accomplished, Hayzdra GUI has been Charged.", Duration = 4,})
+game.StarterGui:SetCore("SendNotification", {Title = "HayzWare", Text = "Best GUI On Earth, Disagree = Mentally Ill", Duration = 4,})
+game.StarterGui:SetCore("SendNotification", {Title = "HayzWare", Text = "Hayzdra On Top", Duration = 4,}) 
 
 
 if KillAuraHitCooldown == nil then
